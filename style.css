@@ -1,0 +1,37 @@
+body {
+  font-size: 30px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  padding: 10px 0;
+  width: 100%;
+  margin-bottom: 10px;
+
+  position: sticky;
+  top: 0px;
+}
+
+.whileSticky {
+  background-color: lightcoral;
+}
+
+.section1 {
+  background-color: pink;
+  height: 200px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.section2 {
+  background-color: lightblue;
+  height: 200px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.section3 {
+  background-color: lightgreen;
+  height: 200px;
+  width: 100%;
+  margin-bottom: 10px;
+}
